@@ -5,9 +5,7 @@ permalink: /research/
 hide_title: true
 ---
 
-# Research
-
-## Working Projects
+# Working Projects
 
 ### Exchange Rate Pass-through (ERPT) for Chinese Exports  
 *The Chinese University of Hong Kong (Shenzhen), 2023–2024*  
@@ -18,7 +16,7 @@ Supervised by Haichun Ye
 
 ---
 
-## Past Research
+# Past Research
 
 ### MIEF Capstone Project  
 **Quantify Public Opinion Analysis on Stock Market Research**  
