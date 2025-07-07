@@ -1,10 +1,10 @@
 ---
-title: "Home"
+title: "Zijie Zeng"
 layout: page
 permalink: /
 ---
 
-# Zijie Zeng
+
 
 Ph.D. Student in Economics  
 University of Connecticut  
