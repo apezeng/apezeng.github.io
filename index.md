@@ -12,6 +12,7 @@ University of Connecticut
 📍 Storrs, CT, USA  
 📧 [zijie.zeng@uconn.edu](mailto:zijie.zeng@uconn.edu)  
 📞 +1 (959) 995-0602  
+📄 [Download CV (PDF)](/assets/cv/zijie-zeng-cv.pdf)
 
 ---
 
