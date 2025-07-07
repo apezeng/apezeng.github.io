@@ -31,18 +31,16 @@ Supervised by Haichun Ye
 - Joint work with Zenie Zhu.
 - Studied exchange rate impact on stock returns and the role of capital mobility.
 
----
 
-## Selected Course Papers
+### Selected Course Papers
 
 - China's Exchange Rate Formation Mechanism: Reforms and Impacts  
 - Revisiting the Feldstein-Horioka Puzzle  
 - Modeling the Dollar-Pound Sterling Exchange Rate  
 - The Decline in Exchange Rate Pass-Through
 
----
 
-## Industry Research Reports (East Asia Qianhai Securities, 2022–2023)
+### Industry Research Reports (East Asia Qianhai Securities, 2022–2023)
 
 - **The Beveridge Curve and U.S. Economic Soft Landing Challenges**  
   Analysis of labor market tightness and implications for soft landing.
