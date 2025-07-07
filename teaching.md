@@ -2,6 +2,7 @@
 title: "Teaching"
 layout: page
 permalink: /teaching/
+hide_title: true
 ---
 
 # Teaching
