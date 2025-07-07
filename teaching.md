@@ -5,9 +5,9 @@ permalink: /teaching/
 hide_title: true
 ---
 
-# Teaching
+## Teaching
 
-## University of Connecticut
+### University of Connecticut
 
 **Teaching Assistant**  
 - ECON1201: Principles of Microeconomics (Fall 2024)  
@@ -15,7 +15,7 @@ hide_title: true
 
 ---
 
-## The Chinese University of Hong Kong (Shenzhen)
+### The Chinese University of Hong Kong (Shenzhen)
 
 **Teaching Assistant**  
 - ECO2021: Basic Macroeconomics (Fall 2023)  
