@@ -1,9 +1,10 @@
 ---
-title: "Zijie Zeng"
+title: "Home"
 layout: page
 permalink: /
+hide_title: true
 ---
-
+# Zijie Zeng
 
 
 Ph.D. Student in Economics  
