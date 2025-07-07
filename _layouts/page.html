@@ -8,13 +8,17 @@ layout: default
 
   <article class="article  article--page  content  typeset">
 
-    <h1>{{ page.title }}</h1>
+    {% unless page.hide_title %}
+      <h1>{{ page.title }}</h1>
+    {% endunless %}
 
     {{ content }}
 
   </article>
 
-  {% if page.aside == true %}{% include site-aside.html %}{% endif %}
+  {% if page.aside == true %}
+    {% include site-aside.html %}
+  {% endif %}
 
 </main>
 
