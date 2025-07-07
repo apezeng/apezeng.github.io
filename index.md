@@ -2,7 +2,6 @@
 title: "Home"
 layout: page
 permalink: /
-hide_title: true
 ---
 # Zijie Zeng
 
