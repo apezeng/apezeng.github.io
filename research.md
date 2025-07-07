@@ -2,7 +2,6 @@
 title: "Research"
 layout: page
 permalink: /research/
-hide_title: true
 ---
 
 # Research
