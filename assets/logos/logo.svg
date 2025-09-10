@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024" role="img" aria-label="Zijie Zeng glow monogram - single Z">
+  <defs>
+    <radialGradient id="gGlow" cx="22%" cy="22%" r="75%">
+      <stop offset="0%" stop-color="#91E4CA" stop-opacity="0.95"/>
+      <stop offset="60%" stop-color="#91E4CA" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#91E4CA" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="fOuter" x="-200%" y="-200%" width="400%" height="400%">
+      <feGaussianBlur stdDeviation="30" result="b"/>
+      <feMerge>
+        <feMergeNode in="b"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <rect width="1024" height="1024" fill="#0B1220"/>
+  <rect width="1024" height="1024" fill="url(#gGlow)"/>
+  <g transform="translate(512.0,512.0)">
+      <circle r="368.64" fill="none" stroke="#91E4CA" stroke-opacity="0.35" stroke-width="13.312" filter="url(#fOuter)"/>
+      <circle r="363.52" fill="none" stroke="#91E4CA" stroke-opacity="0.65" stroke-width="6.144"/>
+      <text text-anchor="middle" dominant-baseline="central"
+            x="0" y="0"
+            font-family="Georgia, 'Times New Roman', serif"
+            font-weight="700" font-size="327.68" fill="none"
+            stroke="#91E4CA" stroke-opacity="0.58" stroke-width="18.432">Z</text>
+    </g>
+</svg>
