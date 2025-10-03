@@ -12,7 +12,7 @@ hide_title: true
 **Teaching Assistant**  
 - ECON 1201: Principles of Microeconomics (Fall 2024)  
 - ECON 1202: Principles of Macroeconomics (Spring 2025)
-- Econ 3321/5321: Programming and Computation with R for Economists (Fall 2025)
+- ECON 3321/5321: Programming and Computation with R for Economists (Fall 2025)
 - ECON 3495：Econ of Crime (Fall 2025)
 
 ---
